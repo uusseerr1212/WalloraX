@@ -1,4 +1,4 @@
-import { VibePreset, WallpaperItem } from '../types';
+import { VibePreset, WallpaperItem } from './types';
 
 export const VIBE_PRESETS: VibePreset[] = [
   {

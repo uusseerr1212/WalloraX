@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Sparkles, Dices, RefreshCw, X, ArrowRight, Image as ImageIcon } from 'lucide-react';
-import { VIBE_PRESETS } from '../data/presets';
-import { WallpaperItem } from '../types';
+import { VIBE_PRESETS } from './presets';
+import { WallpaperItem } from './types';
 
 interface VibeInputProps {
   prompt: string;

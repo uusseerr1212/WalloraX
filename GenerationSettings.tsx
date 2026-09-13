@@ -1,5 +1,5 @@
 import React from 'react';
-import { AspectRatioOption, ImageSizeOption, ModelOption, GenerationSettings as SettingsType } from '../types';
+import { AspectRatioOption, ImageSizeOption, ModelOption, GenerationSettings as SettingsType } from './types';
 import { Sparkles, Zap, Layers, Check } from 'lucide-react';
 
 interface GenerationSettingsProps {

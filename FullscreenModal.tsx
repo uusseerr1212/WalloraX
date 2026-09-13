@@ -13,7 +13,7 @@ import {
   Check,
   Info,
 } from 'lucide-react';
-import { WallpaperItem } from '../types';
+import { WallpaperItem } from './types';
 
 interface FullscreenModalProps {
   wallpaper: WallpaperItem | null;

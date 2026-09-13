@@ -1,5 +1,5 @@
 import React from 'react';
-import { WallpaperItem } from '../types';
+import { WallpaperItem } from './types';
 import { Download, RefreshCw, Maximize2, Sparkles, AlertCircle, ChevronDown, Check } from 'lucide-react';
 
 interface WallpaperGridProps {

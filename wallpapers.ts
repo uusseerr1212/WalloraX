@@ -1,4 +1,4 @@
-import { WallpaperItem } from '../types';
+import { WallpaperItem } from './types';
 
 export const PIXELORA_WALLPAPERS: WallpaperItem[] = [
   // ── NATURE (4) ──────────────────────────────────────────────────────────
