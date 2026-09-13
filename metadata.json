@@ -1,0 +1,6 @@
+{
+  "name": "PIXELORA",
+  "description": "PIXELORA - Curated collection of 30 high-resolution phone wallpapers and AI wallpaper generator with vibe customization, 9:16 aspect ratio, full-screen lockscreen preview, and remixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
