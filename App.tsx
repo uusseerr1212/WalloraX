@@ -1,15 +1,15 @@
 import { useState, useEffect, useMemo } from 'react';
 import { GenerationSettings, WallpaperBatch, WallpaperItem, WallpaperCategory } from './types';
-import { PIXELORA_WALLPAPERS } from './data/wallpapers';
-import { Header } from './components/Header';
-import { HeroSection } from './components/HeroSection';
-import { CategoryFilter } from './components/CategoryFilter';
-import { GenerationSettingsPanel } from './components/GenerationSettings';
-import { VibeInput } from './components/VibeInput';
-import { WallpaperGrid } from './components/WallpaperGrid';
-import { FullscreenModal } from './components/FullscreenModal';
-import { HistoryDrawer } from './components/HistoryDrawer';
-import { Footer } from './components/Footer';
+import { PIXELORA_WALLPAPERS } from './wallpapers';
+import { Header } from './Header';
+import { HeroSection } from './HeroSection';
+import { CategoryFilter } from './CategoryFilter';
+import { GenerationSettingsPanel } from './GenerationSettings';
+import { VibeInput } from './VibeInput';
+import { WallpaperGrid } from './WallpaperGrid';
+import { FullscreenModal } from './FullscreenModal';
+import { HistoryDrawer } from './HistoryDrawer';
+import { Footer } from './Footer';
 
 export default function App() {
   // Exactly 30 wallpapers collection

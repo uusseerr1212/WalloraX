@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sparkles, Download, Smartphone, Heart } from 'lucide-react';
-import { WallpaperCategory } from '../types';
+import { WallpaperCategory } from './types';
 
 interface FooterProps {
   onSelectCategory: (cat: WallpaperCategory) => void;

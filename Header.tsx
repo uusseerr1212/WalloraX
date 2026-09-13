@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sparkles, Smartphone, History, SlidersHorizontal } from 'lucide-react';
-import { GenerationSettings } from '../types';
+import { GenerationSettings } from './types';
 
 interface HeaderProps {
   settings: GenerationSettings;

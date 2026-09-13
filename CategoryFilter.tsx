@@ -10,7 +10,7 @@ import {
   Mountain,
   Gamepad2,
 } from 'lucide-react';
-import { WallpaperCategory } from '../types';
+import { WallpaperCategory } from './types';
 
 interface CategoryFilterProps {
   selectedCategory: WallpaperCategory;

@@ -1,6 +1,6 @@
 import React from 'react';
 import { X, Trash2, Clock, ExternalLink } from 'lucide-react';
-import { WallpaperBatch, WallpaperItem } from '../types';
+import { WallpaperBatch, WallpaperItem } from './types';
 
 interface HistoryDrawerProps {
   isOpen: boolean;
